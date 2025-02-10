@@ -50,9 +50,27 @@ neet-recommendation/
 ```
 
 ## Insights and Visualizations
-- **Accuracy by Topic**: Bar chart displaying topic-wise performance.
-- **Accuracy by Difficulty**: Insights into performance across different difficulty levels.
-- **Personalized Recommendations**: List of suggested topics and improvement strategies.
+1️⃣ Accuracy vs Score Distribution
+
+Shows the relationship between a student's accuracy and their total score.
+2️⃣ Difficulty Levels
+
+Categorizes questions into Easy, Medium, and Hard based on incorrect response rates.
+3️⃣ NEET Rank Prediction Based on Accuracy
+
+Predicts a student's NEET rank based on their quiz accuracy.
+4️⃣ NEET Rank Prediction with Your Rank Highlighted
+
+Displays predicted NEET ranks with a red marker indicating the student's own rank.
+5️⃣ NEET Rank for Multiple Students
+
+Compares NEET rank predictions for multiple students based on their performance.
+6️⃣ Student Performance Summary
+
+Summarizes overall student performance across different quiz attempts.
+7️⃣ Student Performance Topic-wise
+
+Breaks down student performance across different NEET topics.
 
 ## Demo Video
 A 2-5 minute video demonstrating:
