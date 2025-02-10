@@ -46,6 +46,7 @@ neet-recommendation/
 │── Fixed_Historical_Quiz_Data.json   # Past quiz data
 │── neet-recommendation.ipynb  # Google Colab Notebook
 │── README.md  # Project documentation
+|── Screenshots
 ```
 
 ## Insights and Visualizations
